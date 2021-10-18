@@ -1,0 +1,28 @@
+.start-body{
+font-family: 'Ubuntu', sans-serif;
+background-color : black;
+text-align: center;
+display: flex; 
+justify-content: center; 
+align-items: center;
+}
+.start{
+    font-size: 1cm;
+background-color: black;
+color: rgb(0, 0, 0);
+border: groove;
+border-color: coral;
+
+}
+:hover.start{
+    color: coral;
+}
+.start-div{
+
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+h1{
+    color: coral;
+}
